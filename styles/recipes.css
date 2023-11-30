@@ -1,0 +1,21 @@
+img {
+    width: 500px;
+    height: auto;
+
+}
+
+h2,h3,h4 {
+    Font-family: "Brush Scripts MT", "Times New Roman", serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
