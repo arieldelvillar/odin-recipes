@@ -1,11 +1,14 @@
 img {
     width: 500px;
     height: auto;
+    display: block;
+    margin: auto;
 
 }
 
 h2,h3,h4 {
     Font-family: "Brush Scripts MT", "Times New Roman", serif;
+    margin-left: 12px;
 }
 
 h2 {
@@ -18,4 +21,23 @@ h3 {
 
 h4 {
     font-size: 20px;
+}
+
+p {
+    margin-left: 12px;
+}
+
+p, li {
+    max-width: 900px;
+}
+
+ul,ol {
+    margin: 0;
+    padding-left: 28px;
+    width: auto;
+}
+
+li > ul {
+    margin-top: 16px;
+    padding-left: 20px;
 }
