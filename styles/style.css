@@ -11,3 +11,12 @@ a {
     font-size: 20px;
     color: #3a3a3a;
 }
+
+ul {
+    width: 350px;
+    margin: auto;
+}
+
+li {
+    margin-bottom: 16px;
+}
